@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dev-ugurkontel
+- 👀 I’m interested in ... > .Net and back-end
+- 💞️ I’m looking to collaborate on > dev.ugurkontel@gmail.com
+- 📫 How to reach me > dev.ugurkontel@gmail.com
