@@ -1,3 +1,4 @@
+# ✉️ About me
 - 👋 Hi, I’m Ugur Kontel
 - 👀 I'm interested in front-end designs and back-end microservices
 - 📫 How to reach me > dev.ugurkontel@gmail.com
