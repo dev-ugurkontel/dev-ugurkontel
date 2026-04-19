@@ -1,30 +1,20 @@
-<h1 align="center">Hi, I'm Uğur 👋</h1>
+# Hi, I'm Uğur 👋
 
-<p align="center">
-  Full-stack developer building open-source tools under the
-  <a href="https://fillbyte.com"><b>Fillbyte</b></a> brand.
-  <br>
-  Currently shipping async Python + security tooling; past work across
-  .NET, TypeScript, and cloud-native backends.
-</p>
+Backend-focused full-stack developer based in Turkey. I ship distributed systems, mobile apps, and web products — primarily under the [**Fillbyte**](https://fillbyte.com) brand, with a mix of open-source and commercial releases.
 
-<p align="center">
-  <a href="https://ugurkontel.com"><img alt="Website" src="https://img.shields.io/badge/Website-ugurkontel.com-2B6CB0?style=flat-square&logo=google-chrome&logoColor=white"></a>
-  <a href="https://fillbyte.com"><img alt="Fillbyte" src="https://img.shields.io/badge/Brand-fillbyte.com-1A202C?style=flat-square&logo=rocket&logoColor=white"></a>
-  <a href="https://twitter.com/ugurkontel"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%40ugurkontel-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://github.com/sponsors/dev-ugurkontel"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white"></a>
-  <a href="mailto:dev.ugurkontel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-C14438?style=flat-square&logo=minutemailer&logoColor=white"></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-ugurkontel.com-2B6CB0?style=flat-square&logo=google-chrome&logoColor=white)](https://ugurkontel.com)
+[![Fillbyte](https://img.shields.io/badge/Brand-fillbyte.com-1A202C?style=flat-square&logo=rocket&logoColor=white)](https://fillbyte.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40ugurkontel-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ugurkontel)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/dev-ugurkontel)
+[![Email](https://img.shields.io/badge/Email-contact-C14438?style=flat-square&logo=minutemailer&logoColor=white)](mailto:dev.ugurkontel@gmail.com)
 
 ---
 
-## 🚀 Current focus
+## 🚀 Currently shipping
 
-Building practical, well-tested developer tools under the **Fillbyte** umbrella, with a bias toward **security**, **developer ergonomics**, and **serverless architectures**:
-
-- 🛡️ **[surface-audit](https://github.com/dev-ugurkontel/surface-audit)** — async web-application security scanner with pluggable OWASP-aligned checks, MCP support for AI agents, and CI-friendly SARIF/JSON/HTML reports.
-- 📦 More **Fillbyte** tools in progress — automation helpers, backend scaffolding, and CI-first utilities.
-- 💬 Writing and shipping in public at [ugurkontel.com](https://ugurkontel.com).
+- 📱 **[Kiyo — AI Photo & Video](https://apps.apple.com/tr/app/kiyo-ai-photo-video/id6756278032)** — iOS app for AI-powered photo and video editing. Live on the App Store.
+- 🛡️ **[surface-audit](https://github.com/dev-ugurkontel/surface-audit)** — asynchronous web-application security scanner with pluggable OWASP-aligned checks, MCP support for AI agents, and CI-friendly SARIF, JSON, HTML, and Markdown reports. Open source.
+- 📦 More products in progress under the **[Fillbyte](https://fillbyte.com)** brand — backends, mobile apps, and developer tooling.
 
 ---
 
@@ -49,12 +39,19 @@ Building practical, well-tested developer tools under the **Fillbyte** umbrella,
 ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
+#### Mobile
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0066FF?style=flat-square&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+
 #### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white)
@@ -100,9 +97,8 @@ Building practical, well-tested developer tools under the **Fillbyte** umbrella,
 
 ---
 
-## 📊 GitHub stats
+## 📫 Contact
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-ugurkontel&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ugurkontel&layout=compact&hide_border=true&langs_count=10&theme=transparent" alt="Top langs">
-</p>
+- Website: [ugurkontel.com](https://ugurkontel.com)
+- Email: [dev.ugurkontel@gmail.com](mailto:dev.ugurkontel@gmail.com)
+- Issues or discussions are welcome on any of my repositories.
