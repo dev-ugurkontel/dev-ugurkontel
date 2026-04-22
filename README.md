@@ -14,6 +14,7 @@ Software developer based in Turkey, designing and shipping **iOS applications**,
 
 - 📱 **[Kiyo — AI Photo & Video](https://apps.apple.com/tr/app/kiyo-ai-photo-video/id6756278032)** — iOS app for AI-powered photo and video editing. Live on the App Store.
 - 🛡️ **[surface-audit](https://github.com/dev-ugurkontel/surface-audit)** — asynchronous web-application security scanner with pluggable OWASP-aligned checks, MCP support for AI agents, and CI-friendly SARIF, JSON, HTML, and Markdown reports. Open source.
+- 🧪 **[docsmoke](https://github.com/dev-ugurkontel/docsmoke)** — executable documentation smoke tests for Markdown snippets, with opt-in fenced blocks, CI-friendly reports, PyPI/GHCR releases, and a reusable GitHub Action. Open source.
 - 📦 A portfolio of additional iOS apps, backend services, and developer tooling in progress under the [**Fillbyte**](https://fillbyte.com) brand — both open-source and commercial releases.
 
 ---
