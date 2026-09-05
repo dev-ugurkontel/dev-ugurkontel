@@ -13,7 +13,7 @@ Software developer based in Turkey, designing and shipping **iOS applications**,
 ## 🚀 Currently shipping
 
 - 📱 **[Kiyo — AI Photo & Video](https://apps.apple.com/tr/app/kiyo-ai-photo-video/id6756278032)** — iOS app for AI-powered photo and video editing. Live on the App Store.
-- 🤖 **[iOS Capability Architect](https://github.com/fillbyte/ios-capability-architect)** — an open-source Codex plugin and MCP server for selecting, validating, and integrating Apple platform capabilities with current implementation guidance.
+- 🤖 **[Fillbyte Skills](https://github.com/fillbyte/skills)** — an open-source collection of agent skills, Codex plugins, MCP servers, and developer tools for the software lifecycle. Includes [iOS Capability Architect](https://github.com/fillbyte/skills/tree/main/plugins/ios-capability-architect) for Apple-platform capability planning and Xcode configuration audits, available as an agent skill, Codex plugin, local MCP server, and standalone CLI. Browse the collection on [skills.sh](https://skills.sh/fillbyte/skills).
 - 🛡️ **[surface-audit](https://github.com/fillbyte/surface-audit)** — asynchronous web-application security scanner with pluggable OWASP-aligned checks, MCP support for AI agents, and CI-friendly SARIF, JSON, HTML, and Markdown reports. Open source.
 - 🧪 **[docsmoke](https://github.com/fillbyte/docsmoke)** — executable documentation smoke tests for Markdown snippets, with opt-in fenced blocks, CI-friendly reports, PyPI/GHCR releases, and a reusable GitHub Action. Open source.
 - 📦 A portfolio of additional iOS apps, backend services, and developer tooling in progress under the [**Fillbyte**](https://fillbyte.com) brand — both open-source and commercial releases.
